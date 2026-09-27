@@ -15,12 +15,17 @@ This project explores whether cues from human behavior can help identify violenc
 
 ## My role
 
-I worked on the bachelor research project and prepared the four manuscripts. The manuscripts describe data collection, analysis, and writing as the first author's responsibilities. Details about each experiment and individual contributions should be checked against the original project records before code, datasets, or full papers are made public.
+I worked on the bachelor research project and prepared the four manuscripts. The manuscripts describe data collection, analysis, and writing as the first author's responsibilities. The guides supervised the work, according to the author contribution statements.
 
 ## Status and limitations
 
-These manuscripts are unpublished. They describe initial comparisons on small samples. The supplied drafts have text and attribution inconsistencies that need correction before sharing the full papers. This repository is a project overview, not a claim of peer review or a production system.
+These manuscripts are unpublished. They describe initial comparisons on small samples. The papers are shared as project manuscripts. Their reported results have not been independently validated. This repository is not a claim of peer review or a production system.
 
-## Materials
+## Papers
 
-Add reviewed code, a dataset description, and paper files here only after verifying accuracy and permissions for all shared material.
+- [Social Force Model](1-social-force-model.pdf) (unpublished manuscript)
+- [Cognitive Deep Model](2-cognitive-deep-model.pdf) (unpublished manuscript)
+- [Lagrangian Particle Trajectories](3-lagrangian-particle-trajectories.pdf) (unpublished manuscript)
+- [Two-Stream Deep VGG](4-two-stream-deep-vgg.pdf) (unpublished manuscript)
+
+No code is included in this repository.
